@@ -145,7 +145,6 @@ def get_birthday(birthday, year, today):
         birth_day = str(birth_date.__sub__(today)).split(" ")[0]
     return birth_day
 
-
 def get_ciba():
     url = "http://open.iciba.com/dsapi/"
     headers = {
