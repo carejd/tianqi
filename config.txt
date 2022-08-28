@@ -11,7 +11,7 @@
 
 # 信息配置
 #今日日期
-#"date":""
+"date":""
 # 和风天气apikey
 "weather_key": "f472a10d669742efb2eec6c01c9575de",
 # 天行数据apikey
